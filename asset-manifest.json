@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/face-finder-frontend/static/css/main.3241b9fc.chunk.css",
+    "main.js": "/face-finder-frontend/static/js/main.c6a51352.chunk.js",
+    "main.js.map": "/face-finder-frontend/static/js/main.c6a51352.chunk.js.map",
+    "runtime-main.js": "/face-finder-frontend/static/js/runtime-main.eded3a86.js",
+    "runtime-main.js.map": "/face-finder-frontend/static/js/runtime-main.eded3a86.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/face-finder-frontend/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.01127beb.chunk.js": "/face-finder-frontend/static/js/2.01127beb.chunk.js",
+    "static/js/2.01127beb.chunk.js.map": "/face-finder-frontend/static/js/2.01127beb.chunk.js.map",
+    "static/js/3.bdc9a115.chunk.js": "/face-finder-frontend/static/js/3.bdc9a115.chunk.js",
+    "static/js/3.bdc9a115.chunk.js.map": "/face-finder-frontend/static/js/3.bdc9a115.chunk.js.map",
+    "index.html": "/face-finder-frontend/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/face-finder-frontend/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.3241b9fc.chunk.css.map": "/face-finder-frontend/static/css/main.3241b9fc.chunk.css.map",
+    "static/js/2.01127beb.chunk.js.LICENSE.txt": "/face-finder-frontend/static/js/2.01127beb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eded3a86.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.01127beb.chunk.js",
+    "static/css/main.3241b9fc.chunk.css",
+    "static/js/main.c6a51352.chunk.js"
+  ]
+}
